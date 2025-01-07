@@ -29,7 +29,7 @@ Ensure you have Python 3.8 or higher installed on your system.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sai-praneeth-bethapudi/smart-inventory-forecasting.git
+   git clone https://github.com/PraneethChowdaryB/Smart-Inventory-Forecasting
    cd smart-inventory-forecasting
    ```
 2. Install dependencies:
